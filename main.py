@@ -73,6 +73,7 @@ def skaiciavimo():
     # pip3 install Flask
 
 
+
 # 2. Importuojame
 
 kintamasis = 1
