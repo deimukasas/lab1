@@ -72,6 +72,7 @@ def skaiciavimo():
 # 1. Susidiegiame Flask
     # pip3 install Flask
 
+
 # 2. Importuojame
 
 kintamasis = 1
@@ -96,6 +97,7 @@ def finkcija():
 
 
     # Apibrėžiame funkciją skaiciuotuvas
+
 def skaiciuotuvas():
     print("Paprastas skaičiuotuvas")
     print("Pasirinkite operaciją:")
@@ -105,6 +107,7 @@ def skaiciuotuvas():
     print("4. Dalyba")
 
     # Vykdoma operacija pagal vartotojo pasirinkimą
+
     pasirinkimas = input("Įveskite operacijos numerį (1/2/3/4): ")
 
     if pasirinkimas in ('1', '2', '3', '4'):
