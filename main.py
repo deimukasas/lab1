@@ -79,7 +79,7 @@ def skaiciavimo():
 kintamasis = 1
 kintamasis = 2
 
-def finkcija():
+def funkcija():
     print(kintamasis)
     print(kintamasis2)
     print(f'test:{kintamasis2}{kintamasis}')
