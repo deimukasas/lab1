@@ -133,5 +133,6 @@ def skaiciuotuvas():
 # Iškviečiame funkciją skaiciuotuvas
 
 
+
 if __name__ == "__main__":
     app.run()
