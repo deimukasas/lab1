@@ -74,12 +74,8 @@ def skaiciavimo():
 
 # 2. Importuojame
 
-
-
 kintamasis = 1
 kintamasis = 2
-
-
 
 def finkcija():
     print(kintamasis)
