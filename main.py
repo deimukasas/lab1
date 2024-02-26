@@ -130,8 +130,8 @@ def skaiciuotuvas():
         print("Netinkamas pasirinkimas. Bandykite dar kartą.")
 
 
-# Iškviečiame funkciją skaiciuotuvas
 
+# Iškviečiame funkciją skaiciuotuvas
 
 
 if __name__ == "__main__":
