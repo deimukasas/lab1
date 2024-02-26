@@ -2,9 +2,6 @@ from flask import Flask, request
 app = Flask(__name__)
 
 
-
-
-
 @app.route("/") # Route 1
 def hello_world():
 
@@ -64,13 +61,6 @@ def skaiciavimo():
     skaicius2 = request.args.get("test2") ### Pasiimam argumenta 2 is URL pvz.: /skaicius?test2=100
     suma = sudetis(int(skaicius2),int(skaicius))
     return f"Tavo ivestas skaicius: {suma}"
-
-
-
-
-
-
-
 
 
 ''' 1 susidiegiame Flask
