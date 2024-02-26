@@ -81,9 +81,6 @@ kintamasis = 2
 
 
 
-
-
-
 def finkcija():
     print(kintamasis)
     print(kintamasis2)
