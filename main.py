@@ -134,9 +134,9 @@ def skaiciuotuvas():
     else:
         print("Netinkamas pasirinkimas. Bandykite dar kartą.")
 
+
+
 # Iškviečiame funkciją skaiciuotuvas
-
-
 
 
 
